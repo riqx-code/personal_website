@@ -15,9 +15,9 @@ Feel free to reach out at riqxcareer [at] gmail.com.
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+<img src="{{ site.url }}{{ site.baseurl }}/images/c_over_c.jpeg" width="100%"/><br/>
+An image illustrating 'Causality over Correlation': A person eating chips (causal reason) causes their hand to oscillate (correlation), leading the watch to count these movements as steps &#x1F602;.<br/>
+Gemini by Google (after numerous prompts)(July'24)
 </center>
 </div>
 </div>
